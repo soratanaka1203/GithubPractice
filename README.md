@@ -1,1 +1,1 @@
-# GithubPractice
+# このリポジトリはGitHubの使い方を練習するためのものです
